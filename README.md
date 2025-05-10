@@ -17,11 +17,6 @@ Real-Time Processing: Fine calculations use system time for accurate, dynamic re
 File I/O with Security: Persistent storage with basic encryption protects sensitive data.
 Error Resilience: Comprehensive input validation prevents invalid inputs, ensuring system reliability.
 
-Impact and Vision
-LibrarySync bridges the gap between traditional library management and modern software engineering. By automating complex tasks like fine tracking and data security, it empowers librarians to focus on patron engagement. The project reflects a forward-thinking approach, with potential for future enhancements like sorting algorithms, statistical dashboards, or a GUI interface using Qt.
-Showcase on GitHub
-Explore the project on GitHub to see the code, detailed setup instructions, and screenshots of the vibrant interface. The repository includes a professional README, .gitignore, and MIT License, demonstrating industry-standard practices in version control and documentation.
-Technologies
 
 C++: Core language with modern features.
 File Handling: Secure data persistence.
